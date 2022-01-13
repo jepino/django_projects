@@ -1,0 +1,50 @@
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+#one {
+    border: 5px solid blue;
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+}
+
+#two {
+    border: 5px solid green;
+    position: fixed;
+    top: 0px;
+    right: 0px;
+}
+
+#three {
+    border: 5px solid orange;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+}
+
+#four {
+    border: 5px solid yellow;
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+}
+
+#link {
+    text-align: center;
+}
+
+div {
+    width: 25%;
+    margin: 5px;
+    padding: 5px;
+}
+
+a {
+    text-decoration: none;
+    font-family: "helvetica neue", Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    background-color: #2f418e;
+    color: #fefefe;
+}
